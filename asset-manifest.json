@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ChatPC/static/css/main.15d8816f.css",
+    "main.js": "/ChatPC/static/js/main.2587d0f3.js",
+    "index.html": "/ChatPC/index.html",
+    "main.15d8816f.css.map": "/ChatPC/static/css/main.15d8816f.css.map",
+    "main.2587d0f3.js.map": "/ChatPC/static/js/main.2587d0f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15d8816f.css",
+    "static/js/main.2587d0f3.js"
+  ]
+}
